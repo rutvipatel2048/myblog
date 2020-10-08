@@ -1,0 +1,116 @@
+.#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.movie_head{
+    font-size: 20px;
+    
+    padding: 10px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+    color: #ff7700;
+}
+
+.travel_main_div{
+   background-color: aquamarine;
+    font-weight: 800;
+    
+}
+
+
+#TRAVEL{
+    color: lightpink;
+    font-weight: 800;
+}
+
+
+
+
+#MOVIE{
+   color: lightpink;
+    font-weight: 800;
+}
+body{
+    font-family: cursive;
+    padding: 5px;
+    background-color: cornsilk;
+}
+
+.container{
+    background-color: black;
+    margin-top: 15px;
+}
+
+#a{
+    color: lightpink;
+}
+
+.img{
+    padding-bottom: 15px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+#ENVIORMENT{
+    color: lightpink;
+}
+
+#BOOKS{
+    color: lightpink;
+}
+
+#b{
+    color: lightpink;
+}
+
+#f{
+    color: lightpink;
+}
+
+.modal-content{
+    margin-top: 100px;
+    background-color: white;
+    border: 2px solid white;
+    text-align: center;
+    
+}
+
+.img-modal{
+    display: inline-block;
+}
+
+.p_modal{
+    margin: 10px;
+}
+
+.modal-body{
+    text-align: center;
+}
